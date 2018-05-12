@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34430
     wikipedia: http://en.wikipedia.org/wiki/Charles_Bradlaugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37374#The-True-Story-of-my-Parliamentary-Struggle
 gutenberg_issued: '2011-09-10'
 gutenberg_type: Text
 identifiers:
